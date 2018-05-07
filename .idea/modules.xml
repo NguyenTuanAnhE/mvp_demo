@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FastAndroidNetwork.iml" filepath="$PROJECT_DIR$/FastAndroidNetwork.iml" />
+      <module fileurl="file://C:\Users\hihi\Downloads\demo-mvp-master-ef7d2502e9a7b1b5e9f9675739a9b471826889fb\demo-mvp-master-ef7d2502e9a7b1b5e9f9675739a9b471826889fb\MVPDemo.iml" filepath="C:\Users\hihi\Downloads\demo-mvp-master-ef7d2502e9a7b1b5e9f9675739a9b471826889fb\demo-mvp-master-ef7d2502e9a7b1b5e9f9675739a9b471826889fb\MVPDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

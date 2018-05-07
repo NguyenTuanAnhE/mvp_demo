@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FastNetwork</string>
+    <string name="search_movie_activity">Search Movie</string>
+    <string name="movie_activity">Movie</string>
+    <string name="search">Search</string>
+    <string name="msg_type_title">Typing title here …</string>
+    <string name="msg_loading">loading</string>
+    <string name="next_page">Next</string>
+    <string name="previous_page">Previous</string>
+    <string name="current_page">Page</string>
+    <string name="total_page">of</string>
+    <string name="disconnect">Please check the internet connection</string>
+    <string name="connect">Connected</string>
+</resources>
